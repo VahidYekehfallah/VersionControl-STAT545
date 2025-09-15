@@ -7,3 +7,7 @@ https://github.com/VahidYekehfallah/VersionControl-STAT545
 My name is Vahid!
 
 This is another line
+
+#this code only exists on vahids branch at the moment
+
+summary(mtcars)
